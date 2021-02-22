@@ -1,0 +1,65 @@
+
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  padding: 15px;
+
+}
+
+body {
+  background-color: #495a5a;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Kaushan Script', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #b9cc4e;
+}
+
+p {
+  font-size: 2rem;
+  color: #b9f1b4;
+  font-family: 'Courgette', cursive;
+}
+
+img {
+  width: 70%;
+}
+
+
+button{
+	margin-top: 20px;
+background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+
+}
+
+button:hover{
+	  background-color: #4dcb4d ;
+  color: white;
+}
+
+
+footer {
+  margin: 5% 2% 0 0;
+  color: #d5e4d5;
+  text-align: right;
+  font-family: 'Courgette', cursive;
+
+}
+
